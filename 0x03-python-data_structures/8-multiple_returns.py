@@ -8,5 +8,3 @@ def multiple_returns(sentence):
     else:
         res = (length, sentence[0:1])
         return res
-
-
