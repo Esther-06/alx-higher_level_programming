@@ -7,7 +7,7 @@ parameters given to script: sername, passwaord, database
 import MySQLdb
 from sys import argv
 
-if__name__ == "__main__":
+if__name__ == '__main__':
 
     #connect to database
     db= MySQLdb.connect(host="localhost",
